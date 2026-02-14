@@ -43,5 +43,5 @@ applied projects
 
 <!-- github profile summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dx3ie&theme=github_dark" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbydee&theme=github_dark" width="500"/>
 </p>

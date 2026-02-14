@@ -5,7 +5,7 @@
 
 <!-- main text and separator -->
 <p align="center">
-data science • machine learning • analytics
+data science • machine learning • python
 </p>
 
 <p align="center">· · ·</p>   

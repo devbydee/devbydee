@@ -1,6 +1,6 @@
 <!-- top logo -->
 <p align="center">
-  <img src="https://cdn.imgchest.com/files/70b6201d9db8.png" width="350"/>
+  <img src="https://i.pinimg.com/originals/9c/e9/c2/9ce9c25f059ea8002b7b0bff1dc552c1.gif" width="350"/>
 </p>
 
 <!-- main text and separator -->

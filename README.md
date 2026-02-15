@@ -1,16 +1,13 @@
-<!-- top logo -->
 <p align="center">
   <img src="https://cdn.imgchest.com/files/6a4b4a2b4c1a.gif" width="350"/>
 </p>
 
-<!-- main text and separator -->
 <p align="center">
 data science • machine learning • python
 </p>
 
 <p align="center">· · ·</p>   
 
-<!-- badges row 1 -->
 <p align="center">  
   <img src="https://img.shields.io/badge/python-black?style=flat" height="20"/>
   <img src="https://img.shields.io/badge/pandas-black?style=flat" height="20"/>
@@ -19,7 +16,6 @@ data science • machine learning • python
   <img src="https://img.shields.io/badge/sql-black?style=flat" height="20"/>  
 </p>
 
-<!-- badges row 2 -->
 <p align="center">
   <img src="https://img.shields.io/badge/matplotlib-black?style=flat" height="20"/> 
   <img src="https://img.shields.io/badge/seaborn-black?style=flat" height="20"/> 
@@ -27,14 +23,12 @@ data science • machine learning • python
 
 <p align="center">· · ·</p>
 
-<!-- github activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbydee&theme=github-compact&hide_border=true" width="500"/> 
 </p>
 
 <p align="center">· · ·</p>
 
-<!-- section title -->
 <p align="center">
 applied projects
 </p>

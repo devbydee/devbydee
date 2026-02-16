@@ -10,7 +10,7 @@ data science • machine learning • python
 
 <p align="center">  
   <img src="https://img.shields.io/badge/python-black?style=flat" height="20"/>
-  <img src="https://img.shields.io/badge/pandas-black?style=flat" height="20"/>
+  <img src="https://img.shields.io/badge/pandas-black?style=flat" height="20"/> 
   <img src="https://img.shields.io/badge/numpy-black?style=flat" height="20"/>
   <img src="https://img.shields.io/badge/scikit--learn-black?style=flat" height="20"/>
   <img src="https://img.shields.io/badge/sql-black?style=flat" height="20"/>  

@@ -3,7 +3,7 @@
 </p> 
   
 <p align="center">
-data science • machine learning • python
+data science • machine learning • python 
 </p>
  
 <p align="center">· · ·</p>    

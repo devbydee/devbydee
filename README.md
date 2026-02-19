@@ -2,7 +2,7 @@
   <img src="https://cdn.imgchest.com/files/6a4b4a2b4c1a.gif" width="350"/>
 </p> 
    
-<p align="center">
+<p align="center"> 
 data science • machine learning • python 
 </p>
  

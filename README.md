@@ -5,7 +5,7 @@
 <p align="center">
 data science • machine learning • python
 </p>
-
+ 
 <p align="center">· · ·</p>    
 
 <p align="center">  

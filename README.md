@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.imgchest.com/files/6a4b4a2b4c1a.gif" width="300"/>
+  <img src="https://cdn.imgchest.com/files/c559b5de1268.png" width="900"/>
 </p>
 
 <h3 align="center">dana</h3>

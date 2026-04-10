@@ -2,24 +2,34 @@
   <img src="https://cdn.imgchest.com/files/c559b5de1268.png" width="900"/>
 </p>
 
-<h3 align="center">dana</h3>
 
 <p align="center">
-data science student • python • data visualization
+Data Science • Python • Visualization
 </p>
 
 ---
 
 ### about
-i'm a final-year data science student at SEU.  
-i work mainly with python, focusing on data cleaning and visualization.  
+final-year data science student at SEU.  
+focused on data cleaning and visualization using python.
 
 ---
+### connect
+
+[linkedin](https://www.linkedin.com/in/YOUR-LINKEDIN) • [email](mailto:YOUR-EMAIL@gmail.com) • [portfolio](https://dsportfo.netlify.app/)
 
 ### tools
 <p>
-python • pandas • numpy • sql  
-matplotlib • seaborn • jupyter notebook  
+  <img src="https://img.shields.io/badge/python-black?style=flat" />
+  <img src="https://img.shields.io/badge/pandas-black?style=flat" />
+  <img src="https://img.shields.io/badge/numpy-black?style=flat" />
+  <img src="https://img.shields.io/badge/sql-black?style=flat" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/matplotlib-black?style=flat" />
+  <img src="https://img.shields.io/badge/seaborn-black?style=flat" />
+  <img src="https://img.shields.io/badge/Jupyter-black?style=flat" />
 </p>
 
 ---
@@ -31,6 +41,19 @@ matplotlib • seaborn • jupyter notebook
 
 ---
 
+### activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbydee&theme=github-compact&hide_border=true" width="600"/>
+</p>
+
+---
+
 ### currently
 - improving my projects  
-- preparing for coop training  
+- preparing for coop training
+---
+### summary
+ <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbydee&theme=github_dark" width="600"/>
+</p>

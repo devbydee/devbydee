@@ -16,7 +16,7 @@ focused on data cleaning and visualization using python.
 ---
 ### connect
 
-[linkedin](https://www.linkedin.com/in/YOUR-LINKEDIN) • [email](mailto:YOUR-EMAIL@gmail.com) • [portfolio](https://dsportfo.netlify.app/)
+[linkedin](https://www.linkedin.com/in/devbydee/) • [email](mailto:danahbamunif@gmail.com) • [portfolio](https://dsportfo.netlify.app/)
 
 ### tools
 <p>

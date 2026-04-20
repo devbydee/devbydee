@@ -13,10 +13,7 @@ Data Science • Python • Visualization
 final-year data science student at SEU.  
 focused on data cleaning and visualization using python.
 
----
-### connect
 
-[linkedin](https://www.linkedin.com/in/devbydee/) • [email](mailto:danahbamunif@gmail.com) • [portfolio](https://dsportfo.netlify.app/)
 
 ### tools
 <p>

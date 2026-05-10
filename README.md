@@ -3,9 +3,7 @@
 </p>
 
 
-<p align="center">
-Data Science • Python • Visualization
-</p>
+
 
 ---
 

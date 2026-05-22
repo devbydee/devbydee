@@ -34,8 +34,4 @@
 ### currently
 - improving my projects  
 - preparing for coop training
----
-### summary
- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbydee&theme=github_dark" width="600"/>
-</p>
+

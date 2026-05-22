@@ -1,17 +1,3 @@
-<p align="center">
-  <img src="https://cdn.imgchest.com/files/c559b5de1268.png" width="900"/>
-</p>
-
-
-
-
----
-
-### about
-final-year data science student at SEU.  
-focused on data cleaning and visualization using python.
-
----
 
 
 ### tools
@@ -28,14 +14,14 @@ focused on data cleaning and visualization using python.
   <img src="https://img.shields.io/badge/Jupyter-black?style=flat" />
 </p>
 
----
+
 
 ### projects
 - **customer churn prediction**  
 - **spotify mood visualization**  
-- **fake job post detection** (in progress)
+- **fake job post detection**
 
----
+
 
 ### activity
 
@@ -43,7 +29,7 @@ focused on data cleaning and visualization using python.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbydee&theme=github-compact&hide_border=true" width="600"/>
 </p>
 
----
+
 
 ### currently
 - improving my projects  
